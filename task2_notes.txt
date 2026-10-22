@@ -1,2 +1,0 @@
-Task 2: Git Workflow Practice
-This file is created to practise the git add command.
